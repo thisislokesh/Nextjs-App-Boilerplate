@@ -83,28 +83,3 @@ We welcome contributions to improve this boilerplate. Please feel free to submit
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy coding! 🎉
-
-Citations:
-[1] https://github.com/jsdeveloperr/nextjs-boilerplate
-[2] https://github.com/omergulcicek/nextjs-boilerplate
-[3] https://github.com/nhanluongoe/nextjs-boilerplate/blob/main/README.md
-[4] https://github.com/cheatcode/nextjs-boilerplate
-[5] https://github.com/cheatcode/nextjs-boilerplate/blob/master/README.md
-[6] https://github.com/ghbishal/nextjs-boilerplate
-[7] https://github.com/dwarvesf/nextjs-boilerplate/blob/master/README.md
-[8] https://github.com/ixartz/Next-js-Boilerplate
-[9] https://github.com/ixartz/Next-js-Boilerplate/blob/main/README.md
-[10] https://github.com/dwarvesf/nextjs-boilerplate
-[11] https://github.com/grommet/nextjs-boilerplate/blob/master/README.md
-[12] https://github.com/AnwarHossainSR/nextjs-15-template
-[13] https://github.com/naver/nextjs-boilerplate/blob/master/README.md
-[14] https://github.com/stanleyfok/nextjs-template/blob/master/README.md
-[15] https://github.com/Enalmada/nextjs-boilerplate/blob/develop/README.md
-[16] https://github.com/ixartz/Next-js-Blog-Boilerplate/blob/master/README.md
-[17] https://github.com/pankod/next-boilerplate
-[18] https://github.com/topics/nextjs-template
-[19] https://nextjsstarter.com/blog/next-js-boilerplate-github-selections-speed-up-development/
-[20] https://github.com/ahmetkapusuz/next-js-boilerplate
-
----
-Answer from Perplexity: pplx.ai/share
